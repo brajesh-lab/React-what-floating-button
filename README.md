@@ -67,9 +67,9 @@ function App() {
     <div>
       <WhatsAppWidget 
         phoneNumber="+971563946650"
-        companyName="Dheera Global"
+        companyName="Company Name"
         companyLogo="/logo.png"
-        message="Welcome to Dheera Global! How can we assist you today?"
+        message="Welcome to Company Name! How can we assist you today?"
         replyTime="Usually responds in a few minutes"
         position="left"
         buttonSize={70}
