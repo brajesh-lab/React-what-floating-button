@@ -1,6 +1,6 @@
 {
   "name": "react-whatsapp-floating",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A customizable WhatsApp chat widget for React applications",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
