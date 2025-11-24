@@ -26,12 +26,12 @@ yarn add react-whatsapp-floating
 ## Basic Usage
 
 ```jsx
-import { WhatsAppWidget } from 'react-whatsapp-widget';
+import { WhatsAppFloating } from 'react-whatsapp-widget';
 
 function App() {
   return (
     <div>
-      <WhatsAppWidget 
+      <WhatsAppFloating 
         phoneNumber="+1234567890"
         companyName="Your Company"
       />
@@ -65,7 +65,7 @@ import { WhatsAppWidget } from 'react-whatsapp-widget';
 function App() {
   return (
     <div>
-      <WhatsAppWidget 
+      <WhatsAppFloating 
         phoneNumber="+971563946650"
         companyName="Company Name"
         companyLogo="/logo.png"
