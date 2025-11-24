@@ -60,7 +60,7 @@ function App() {
 ## Advanced Example
 
 ```jsx
-import { WhatsAppWidget } from 'react-whatsapp-widget';
+import { WhatsAppFloating } from 'react-whatsapp-widget';
 
 function App() {
   return (
